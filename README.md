@@ -1,2 +1,1 @@
-# testgit
-Pruebas Git
+Pruebas de Imagenes para OpenShift
