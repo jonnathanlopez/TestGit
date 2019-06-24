@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-hola-mundo",
+  "version": "1.0.0",
+  "description": "Node.js Hello World for OpenShift 3",
+  "main": "app2.js",
+  "scripts": {
+    "start": "node app2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jonnathanlopez/TestGit.git"
+  }
+}
